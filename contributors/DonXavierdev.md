@@ -6,7 +6,7 @@ twitter: ""
 linkedin: ""
 slack: ""
 joining_date: ""
-role : contributor
+role : Intern
 ---
 
 Still waiting for this
